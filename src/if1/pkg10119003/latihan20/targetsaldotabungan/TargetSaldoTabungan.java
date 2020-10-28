@@ -52,6 +52,7 @@ public class TargetSaldoTabungan {
         data.masukkanSaldo();
         data.hitungBunga();
         data.tampilSaldo();
+        System.out.println("Developed by : Ivan Faathirza");
     }
     
 }
